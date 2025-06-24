@@ -20,8 +20,6 @@ This is a basic **alarm timer** built with Python. It lets users input a custom 
    ```bash
    pip install playsound
 2. Place an alarm.mp3 file in the same directory as the script.
-    ```bash
-   pip install playsound
 3. Run the script:
    ```bash
    python alarm_timer.py
